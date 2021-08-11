@@ -1,0 +1,15 @@
+*{
+
+}
+.container{
+    background-image: url(bg1.jpg);
+    flex-direction: column;
+    padding: 40px;
+    margin: 50px;
+    width: 400px;
+}
+.change-table{
+    background-color:blueviolet ;
+    line-height: 20px;
+    line: spacing 10px;
+}
